@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+}
+
+h1{
+	color: red;
+	
+	padding: 50px;
+}
+
+h2{
+	color: yellow;
+}
+
+header{
+	background-color: grey;
+
+}
+
+footer{
+	background-color: blue;
+}
+
+a{
+	color: white;
+}
+
+.form{
+	margin: 2px;
+	padding: left;
+	float: left;
+}
+
