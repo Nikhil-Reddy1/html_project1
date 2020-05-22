@@ -23,16 +23,19 @@ a{
 	margin-left: 10px;
 }
 
-p a{
-	text-align: left;
+
+.boxes{
+	margin: 2px;
 }
 
 table{
 	color: #f4a261;
+	text-align: justify;
 }
 
 li{
 	color: #f4a261;
+	text-align: center;
 }
 
 .box{
@@ -40,6 +43,20 @@ li{
 	width: 30%;
 	display: inline-block;
 	float: left;
+	margin: 5px;
+	padding-left: 2px;
+}
+
+.box a{
+	float: left;
+}
+
+#topa{
+	color: rgb(150, 218, 218);
+}
+
+#form{
+	height: 30px;
 }
 
 footer{
