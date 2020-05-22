@@ -6,15 +6,18 @@ h2{
 	color: #e9c46a;
 	/* margin-left: 10px; */
 	text-align: center;
+	font-family: 'Arvo', serif;
 }
 
 h1{
 	color: #2a9d8f;
 	text-align: center;
+	font-family: 'Prata', serif;
 }
 
 p{
 	color: #f4a261;
+	font-family: 'Dancing Script', cursive;
 	text-align: justify;
 }
 
