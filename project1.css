@@ -17,7 +17,7 @@ h1{
 
 p{
 	color: #f4a261;
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Balsamiq Sans', cursive;
 	text-align: justify;
 }
 
@@ -29,16 +29,29 @@ a{
 
 .boxes{
 	margin: 2px;
+	border: #2a9d8f;
+	/* border-style: solid; */
 }
+
 
 table{
 	color: #f4a261;
 	text-align: justify;
+	font-family: 'Balsamiq Sans', cursive;
+}
+
+h3{
+	color: #f4a261;
+}
+
+summary{
+	color: #f4a261;
 }
 
 li{
 	color: #f4a261;
 	text-align: center;
+	font-family: 'Balsamiq Sans', cursive;
 }
 
 .box{
